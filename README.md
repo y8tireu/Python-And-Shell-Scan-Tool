@@ -1,5 +1,4 @@
-#Scan.sh
-
+# Scan.sh
 
 A simple Bash script to scan from an Epson XP-4100 Series device using `airscan`,
 then convert the TIFF output to PDF using ImageMagick.
