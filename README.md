@@ -1,8 +1,3 @@
-Below is an example of a comprehensive `README.md` file that documents both code files. You can adjust the file names, installation instructions, and other details as needed.
-
----
-
-```markdown
 # Scan to PDF Utility for Epson XP-4100 Series
 
 This repository contains two tools for scanning documents with an Epson XP-4100 Series scanner using the airscan interface. The scanned document is first saved as a TIFF image and then converted to a PDF file using ImageMagick.
